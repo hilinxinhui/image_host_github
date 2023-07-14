@@ -1,6 +1,6 @@
 # Image Host GitHub
 
-使用[PicGo]()搭建图床。
+使用[PicGo](https://github.com/Molunerfinn/PicGo)搭建图床。PicGo用户指南请看[这里](https://picgo.github.io/PicGo-Doc/zh/guide/)。
 
 ## 搭建图床
 
