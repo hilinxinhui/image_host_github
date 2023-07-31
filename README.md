@@ -2,6 +2,8 @@
 
 使用[PicGo](https://github.com/Molunerfinn/PicGo)搭建图床。PicGo用户指南请看[这里](https://picgo.github.io/PicGo-Doc/zh/guide/)。
 
+主要保存博客和GitHub README配图。
+
 ## 搭建图床
 
 - 注册GitHub账号
